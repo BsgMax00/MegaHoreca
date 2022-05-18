@@ -1,0 +1,17 @@
+.card {
+  background-color: $white;
+  &:hover {
+    box-shadow: $box-shadow;
+    border-color: $white;
+  }
+  a {
+    text-decoration: none !important;
+  }
+}
+.category-card {
+  background-color: $primary !important;
+  border-color: $white !important;
+  img {
+    opacity: 0.5;
+  }
+}

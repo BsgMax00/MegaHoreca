@@ -1,0 +1,19 @@
+.slick-slider {
+  .slick-list {
+    margin: 0 -6px;
+    margin-right: -1px;
+  }
+  .slick-slide {
+    padding: 0 6px;
+    height: auto;
+    > * {
+      height: 100%;
+    }
+  }
+  .slick-track {
+    display: flex;
+  }
+  .card {
+    max-height: 90%;
+  }
+}
