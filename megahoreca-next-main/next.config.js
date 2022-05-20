@@ -5,7 +5,7 @@ module.exports = withImages({
         reactRefresh: true
     },
     eslint: {
-        ignoreDuringBuilds: true,
+        ignoreDuringBuilds: false,
     },
     images: {
         domains: [
@@ -41,5 +41,6 @@ module.exports = withImages({
             "ucaf8b091f8ef091aef0c2faa151.previews.dropboxusercontent.com/"
         ],
         disableStaticImages: true
+
     }
 });
