@@ -5,7 +5,7 @@ module.exports = withImages({
         reactRefresh: true
     },
     eslint: {
-        ignoreDuringBuilds: false,
+        ignoreDuringBuilds: true,
     },
     images: {
         domains: [
@@ -13,6 +13,7 @@ module.exports = withImages({
             'uc82b3fb6939cae5881e9e0faea8.previews.dropboxusercontent.com',
             'ucb739242fb48b39c57bb5535970.previews.dropboxusercontent.com',
             'uc69807d1dd8bd3f386c38efdf6d.previews.dropboxusercontent.com',
+
             "uca6267e7646f032061ea0316468.previews.dropboxusercontent.com",
             "ucf2cef1dbc347709e58bfb77b51.previews.dropboxusercontent.com",
             "uc9d1ac3491fb217165363a1ce09.previews.dropboxusercontent.com",
@@ -24,6 +25,7 @@ module.exports = withImages({
             "ucef29dcf53193da83ebb1c33f18.previews.dropboxusercontent.com",
             "ucdadf96d16150ff922fb34dcee2.previews.dropboxusercontent.com",
             "ucc6a4ddb6cd3911c53b1461d340.previews.dropboxusercontent.com",
+
             "uc44e78b6f618c2c75633492afe6.previews.dropboxusercontent.com",
             "uc99650893f7f44dfb30faf2133b.previews.dropboxusercontent.com",
             "uca88a38076cbdbae66a9d37be87.previews.dropboxusercontent.com",
@@ -41,6 +43,5 @@ module.exports = withImages({
             "ucaf8b091f8ef091aef0c2faa151.previews.dropboxusercontent.com/"
         ],
         disableStaticImages: true
-
     }
 });
