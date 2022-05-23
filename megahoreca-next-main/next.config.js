@@ -40,7 +40,11 @@ module.exports = withImages({
             "uc0b76c9ed29ea0d3c983bb04f65.previews.dropboxusercontent.com",
             "uc67a2b00e5a77ae3367e02d2723.previews.dropboxusercontent.com",
             "uc9003b2602120dbcdf1c1798e27.previews.dropboxusercontent.com",
-            "ucaf8b091f8ef091aef0c2faa151.previews.dropboxusercontent.com/"
+            "ucaf8b091f8ef091aef0c2faa151.previews.dropboxusercontent.com/",
+
+            "uc27b532ffa9f71cd76b2fecde22.previews.dropboxusercontent.com",
+            "ucfb3043425a03901d48fe221ac6.previews.dropboxusercontent.com",
+            "uc4869e93f44a9f6f201535ea351.previews.dropboxusercontent.com"
         ],
         disableStaticImages: true
     }
