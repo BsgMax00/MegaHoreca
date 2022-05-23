@@ -39,7 +39,7 @@ export const catdata = [
       {
         "id": 6,
         "title": "Sanitair",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/assortiment/sanitair"
       },
       {
@@ -463,32 +463,32 @@ export const catdata = [
   {
     "id": 6,
     "title": "Verf & Houtbescherming",
-    "icon": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABgW8hQIVvi8RwEzX0Fui4OM0fgetfmn1nvc8rP69B3ARnjP7oZh7YPiJVZM_dBYlxvGUjJseJVmhjLbEs_hqHujogS3Bkey11ueY231vVetLajq5pgf-r9Ze_44C_vTGTdWaOLnPJD6gKGZ_65X29RNv8YKSB1xNLCyJFWTMawGTT6CqWNiXICxX8RBwdk4GwpAOFebxvZYgCIPvFwEPYa_YJQuVl9DmFCZvNdHn9EQUOpXIdccWZbGLAfr1AE8gKUg2zjtWcZnmlmWQvS7P1TekZvPX3_sRVk2khl30mSzwhNjJ68UKxFv6FCwiJi8u4f4K-tv4PwvgiLXZL3fVkhtvscKFAssSff-k_9iDdHzhb9dXjKEaY4F2lW4nkMb6dg/p.jpeg",
-    "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABgW8hQIVvi8RwEzX0Fui4OM0fgetfmn1nvc8rP69B3ARnjP7oZh7YPiJVZM_dBYlxvGUjJseJVmhjLbEs_hqHujogS3Bkey11ueY231vVetLajq5pgf-r9Ze_44C_vTGTdWaOLnPJD6gKGZ_65X29RNv8YKSB1xNLCyJFWTMawGTT6CqWNiXICxX8RBwdk4GwpAOFebxvZYgCIPvFwEPYa_YJQuVl9DmFCZvNdHn9EQUOpXIdccWZbGLAfr1AE8gKUg2zjtWcZnmlmWQvS7P1TekZvPX3_sRVk2khl30mSzwhNjJ68UKxFv6FCwiJi8u4f4K-tv4PwvgiLXZL3fVkhtvscKFAssSff-k_9iDdHzhb9dXjKEaY4F2lW4nkMb6dg/p.jpeg",
+    "icon": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+    "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
     "slug": "category/verf-houtbescherming",
     "subcategory": [
       {
         "id": 1,
         "title": "Verf",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABgW8hQIVvi8RwEzX0Fui4OM0fgetfmn1nvc8rP69B3ARnjP7oZh7YPiJVZM_dBYlxvGUjJseJVmhjLbEs_hqHujogS3Bkey11ueY231vVetLajq5pgf-r9Ze_44C_vTGTdWaOLnPJD6gKGZ_65X29RNv8YKSB1xNLCyJFWTMawGTT6CqWNiXICxX8RBwdk4GwpAOFebxvZYgCIPvFwEPYa_YJQuVl9DmFCZvNdHn9EQUOpXIdccWZbGLAfr1AE8gKUg2zjtWcZnmlmWQvS7P1TekZvPX3_sRVk2khl30mSzwhNjJ68UKxFv6FCwiJi8u4f4K-tv4PwvgiLXZL3fVkhtvscKFAssSff-k_9iDdHzhb9dXjKEaY4F2lW4nkMb6dg/p.jpeg",
+        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
         "slug": "category/verf-houtbescherming/verf",
       },
       {
         "id": 2,
         "title": "Schildersgereedschap",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABgW8hQIVvi8RwEzX0Fui4OM0fgetfmn1nvc8rP69B3ARnjP7oZh7YPiJVZM_dBYlxvGUjJseJVmhjLbEs_hqHujogS3Bkey11ueY231vVetLajq5pgf-r9Ze_44C_vTGTdWaOLnPJD6gKGZ_65X29RNv8YKSB1xNLCyJFWTMawGTT6CqWNiXICxX8RBwdk4GwpAOFebxvZYgCIPvFwEPYa_YJQuVl9DmFCZvNdHn9EQUOpXIdccWZbGLAfr1AE8gKUg2zjtWcZnmlmWQvS7P1TekZvPX3_sRVk2khl30mSzwhNjJ68UKxFv6FCwiJi8u4f4K-tv4PwvgiLXZL3fVkhtvscKFAssSff-k_9iDdHzhb9dXjKEaY4F2lW4nkMb6dg/p.jpeg",
+        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
         "slug": "category/verf-houtbescherming/schildersgereedschap",
       },
       {
         "id": 3,
         "title": "Houtbescherming",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABgW8hQIVvi8RwEzX0Fui4OM0fgetfmn1nvc8rP69B3ARnjP7oZh7YPiJVZM_dBYlxvGUjJseJVmhjLbEs_hqHujogS3Bkey11ueY231vVetLajq5pgf-r9Ze_44C_vTGTdWaOLnPJD6gKGZ_65X29RNv8YKSB1xNLCyJFWTMawGTT6CqWNiXICxX8RBwdk4GwpAOFebxvZYgCIPvFwEPYa_YJQuVl9DmFCZvNdHn9EQUOpXIdccWZbGLAfr1AE8gKUg2zjtWcZnmlmWQvS7P1TekZvPX3_sRVk2khl30mSzwhNjJ68UKxFv6FCwiJi8u4f4K-tv4PwvgiLXZL3fVkhtvscKFAssSff-k_9iDdHzhb9dXjKEaY4F2lW4nkMb6dg/p.jpeg",
+        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
         "slug": "category/verf-houtbescherming/houtbescherming",
       },
       {
         "id": 4,
         "title": "Afbijtmiddelen & reinigers",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABgW8hQIVvi8RwEzX0Fui4OM0fgetfmn1nvc8rP69B3ARnjP7oZh7YPiJVZM_dBYlxvGUjJseJVmhjLbEs_hqHujogS3Bkey11ueY231vVetLajq5pgf-r9Ze_44C_vTGTdWaOLnPJD6gKGZ_65X29RNv8YKSB1xNLCyJFWTMawGTT6CqWNiXICxX8RBwdk4GwpAOFebxvZYgCIPvFwEPYa_YJQuVl9DmFCZvNdHn9EQUOpXIdccWZbGLAfr1AE8gKUg2zjtWcZnmlmWQvS7P1TekZvPX3_sRVk2khl30mSzwhNjJ68UKxFv6FCwiJi8u4f4K-tv4PwvgiLXZL3fVkhtvscKFAssSff-k_9iDdHzhb9dXjKEaY4F2lW4nkMb6dg/p.jpeg",
+        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
         "slug": "category/verf-houtbescherming/afbijtmiddelen-reinigers",
       }
     ]
@@ -496,68 +496,68 @@ export const catdata = [
   {
     "id": 7,
     "title": "Sanitair",
-    "icon": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
-    "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+    "icon": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
+    "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
     "slug": "category/sanitair",
     "subcategory": [
       {
         "id": 1,
         "title": "WC's & accessoires",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/sanitair/wcs-accessoires",
       },
       {
         "id": 2,
         "title": "Douches",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/sanitair/douches",
       },
       {
         "id": 3,
         "title": "Kranen",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/sanitair/kranen",
       },
       {
         "id": 4,
         "title": "Lavabo's",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/sanitair/lavabos",
       },
       {
         "id": 5,
         "title": "Technisch sanitair",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/sanitair/technisch-sanitair",
       },
       {
         "id": 6,
         "title": "Ligbaden",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/sanitair/ligbaden",
       },
       {
         "id": 7,
         "title": "Badkamerkasten",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/sanitair/badkamerkasten",
       },
       {
         "id": 8,
         "title": "Badkamer accessoires",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/sanitair/badkamer-accessoires",
       },
       {
         "id": 9,
         "title": "CV & accessoires",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/sanitair/cv-accessoires",
       },
       {
         "id": 10,
         "title": "Waterbehandeling",
-        "img": "https://uc2b802e906dbb694927bd26962c.previews.dropboxusercontent.com/p/thumb/ABjYKrT-15B1pavduglCG38w1UKDDUGVGLmsCn5drVfQLGURuSfokfNE-U30aOtPJoX6zoaFSbppHTayk8Vv5D1MGIcJfCcJhlq8zO15Yo3cYI6rbbG17F0fzoqxrfYaMnUDPQIk9knis1cC1RSRYkivshDJINCg4SxAzSXFgahxeNDFKebNhTMuu_jd_KIyLhSFRMLvmTRQwTitVOzz9-BETnZ5URdENTBVPl_S3iDo9DzMMi5yMBWkUte-EttZCmV1bePUbxI33iyYyFOkML9vnAKWABsRcCE2RpvzR4j56WUJnIusp87sH9ra4uor0usxMqUFMdMusmmEyaYRROckNw-O7-QwmBFQiJ9pQpxTmBS3s02hjhmvAeeJusNsVAs/p.jpeg",
+        "img": "https://uc488989ec85725b0b4aa5110e20.previews.dropboxusercontent.com/p/thumb/ABje1RQ73DpZGWbNZAnINMWfkAr7yxzi18e5K9docHsqhUgGVXp3mPitRQxmo0bwuvI9JOmRJisTtfHUDyDtkndleXVBFPvrpLiJcoqu05Jo12-AFQ1KOkvqeP5_wkB2eD3H6qOcvpDiIiI_V9ePRSbpFDEDvIdAqcYnMq2JxmqQXJsXp3QC-6b2bS6W6IzWQER75XWd3_WaVYMFovkpZ0L1z6faJEhJNh9g_2aw_tSWDykB037G90s7d6QD0tpj47h7gKS6J5sd360iCLh7ZkJ12yW5_s7_hKXi7BzLtrBT5wcrXVJXg57xR4J3u8MJTFrFgnESw02CULizHRsVRD9iJyse2iJ7OWk7XtLKXRv4mdcXuRHo1PAkdhH4dNnkikM/p.jpeg",
         "slug": "category/sanitair/waterbehandeling",
       }
     ]
@@ -611,7 +611,7 @@ export const catdata = [
     "id": 9,
     "title": "Ijzerwaren",
     "icon": "https://uca1976b1005f158ab9853500d89.previews.dropboxusercontent.com/p/thumb/ABhZSr9gsT9WvcBTxa9wamzOI6itxep8YEktwafPEj6SZMiHO7Fh9UIKpZbriLODv5hKDhy-cPSIlA09UTpMSOZXuBpiTghNNk440yu6oxNo5HJA1yecEIvqu0UGDbPUAV1JEMPuyGL6wbzDYIEN8V9aK8sM7KReLlBOIozvrnlHKnPNjyY3xGHDmwFmj5z_zUgoRvrDRmo01_O54t0xKfyqwPnsdAjuu0mkehYjlmJjJsFeooem5zclpT6MaNuZa1OU7JxIfjDftfLXPhYtlUESYNhvG4szuRXbjb23I-eGfJTZ4BD11Gp5cjHDMHuXrSkhORDzBgaR140hvv8FzvNtVtkqX6XnVJWCmlttGNoabrcfc_1z-LYCpSeYWvFrGQQ/p.jpeg",
-    "img": "",
+    "img": "https://uca1976b1005f158ab9853500d89.previews.dropboxusercontent.com/p/thumb/ABhZSr9gsT9WvcBTxa9wamzOI6itxep8YEktwafPEj6SZMiHO7Fh9UIKpZbriLODv5hKDhy-cPSIlA09UTpMSOZXuBpiTghNNk440yu6oxNo5HJA1yecEIvqu0UGDbPUAV1JEMPuyGL6wbzDYIEN8V9aK8sM7KReLlBOIozvrnlHKnPNjyY3xGHDmwFmj5z_zUgoRvrDRmo01_O54t0xKfyqwPnsdAjuu0mkehYjlmJjJsFeooem5zclpT6MaNuZa1OU7JxIfjDftfLXPhYtlUESYNhvG4szuRXbjb23I-eGfJTZ4BD11Gp5cjHDMHuXrSkhORDzBgaR140hvv8FzvNtVtkqX6XnVJWCmlttGNoabrcfc_1z-LYCpSeYWvFrGQQ/p.jpeg",
     "slug": "category/ijzerwaren",
     "subcategory": [
       {
